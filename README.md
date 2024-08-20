@@ -25,8 +25,6 @@ Sinta-se à vontade para visitar o meu perfil no Frontend Mentor - [@deusdetenet
 
 ### Links
 
-<!-- TODO Colocar URL's aki -->
-
 - URL da Solução: [Adicionar URL da solução aqui](https://www.frontendmentor.io/solutions/social-links-profile-OWEFOwPysu)
 - URL do Site: [Adicionar URL do site aqui](https://social-links-profile-plum-six.vercel.app/)
 
