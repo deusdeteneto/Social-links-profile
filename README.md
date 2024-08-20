@@ -21,7 +21,7 @@ Sinta-se à vontade para visitar o meu perfil no Frontend Mentor - [@deusdetenet
 
 ### Screenshot
 
-![Screenshot do Projeto](https://raw.githubusercontent.com/deusdeteneto/Social-links-profile/main/design/desktop-design.jpeg)
+![Screenshot do Projeto](https://raw.githubusercontent.com/deusdeteneto/Social-links-profile/main/design/Desktop-image.jpeg)
 
 ### Links
 
@@ -33,12 +33,9 @@ Sinta-se à vontade para visitar o meu perfil no Frontend Mentor - [@deusdetenet
 ## Meu processo
 
 ### Construído com
-
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="My Skills"></a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)]()
 
 ### O que eu aprendi
 
@@ -83,17 +80,18 @@ Para projetos futuros, planejo explorar mais o uso de CSS Grid e continuar a apr
 
 ## Autor
 
+Você pode encontrar mais informações sobre mim clicando nas minhas redes abaixo.
 <div align="center">
-  <a href="https://www.linkedin.com/in/deusdeteneto">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/deusdeteneto">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/deusdeteneto">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/torresneto.tn/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </div>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/deusdeteneto)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/deusdeteneto)
 
 ## Agradecimentos
 
