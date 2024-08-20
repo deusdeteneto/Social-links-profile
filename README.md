@@ -27,14 +27,14 @@ Sinta-se à vontade para visitar o meu perfil no Frontend Mentor - [@deusdetenet
 
 <!-- TODO Colocar URL's aki -->
 
-- URL da Solução: [Adicionar URL da solução aqui](https://www.frontendmentor.io/solutions/social-links-profile-XXXXX)
-- URL do Site: [Adicionar URL do site aqui](https://deusdeteneto.github.io/Social-links-profile/)
+- URL da Solução: [Adicionar URL da solução aqui](https://www.frontendmentor.io/solutions/social-links-profile-OWEFOwPysu)
+- URL do Site: [Adicionar URL do site aqui](https://social-links-profile-plum-six.vercel.app/)
 
 ## Meu processo
 
 ### Construído com
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="My Skills"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,vercel" alt="My Skills"></a>
 </p>
 
 ### O que eu aprendi
