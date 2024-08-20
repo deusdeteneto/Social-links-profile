@@ -16,17 +16,17 @@
       sizes="32x32"
       href="./assets/images/favicon-32x32.png"
     />
-    <title>Frontend Mentor | Social links profile</title>
+    <title>Social Links Profile</title>
   </head>
   <body>
     <main class="d-flex justify-content-center align-items-center vh-100">
-      <section class="card align-items-center text-center rounded-3">
+      <article class="card align-items-center text-center rounded-3">
         <img
           src="assets/images/avatar-jessica.jpeg"
           class="card-img-top mt-4"
-          alt="avatar"
+          alt="Portrait of Jessica Randall"
         />
-        <article class="card-body">
+        <div class="card-body">
           <h1 class="card-title fs-6 fw-semibold">Jessica Randall</h1>
           <p class="card-text fw-semibold" id="address">
             London, United Kingdom
@@ -34,17 +34,40 @@
           <p class="card-text" id="skills">
             "Front-end developer and avid reader."
           </p>
-          <section class="d-flex flex-column gap-3 mx-3 mb-3">
-            <a href="#" class="btn btn-secondary fw-semibold">GitHub</a>
-            <a href="#" class="btn btn-secondary fw-semibold"
+          <nav class="d-flex flex-column gap-3 mx-3 mb-3">
+            <a
+              href="#"
+              class="btn btn-secondary fw-semibold"
+              aria-label="GitHub Profile"
+              >GitHub</a
+            >
+            <a
+              href="#"
+              class="btn btn-secondary fw-semibold"
+              aria-label="Frontend Mentor Profile"
               >Frontend Mentor</a
             >
-            <a href="#" class="btn btn-secondary fw-semibold">LinkedIn</a>
-            <a href="#" class="btn btn-secondary fw-semibold">Twitter</a>
-            <a href="#" class="btn btn-secondary fw-semibold">Instagram</a>
-          </section>
-        </article>
-      </section>
+            <a
+              href="#"
+              class="btn btn-secondary fw-semibold"
+              aria-label="LinkedIn Profile"
+              >LinkedIn</a
+            >
+            <a
+              href="#"
+              class="btn btn-secondary fw-semibold"
+              aria-label="Twitter Profile"
+              >Twitter</a
+            >
+            <a
+              href="#"
+              class="btn btn-secondary fw-semibold"
+              aria-label="Instagram Profile"
+              >Instagram</a
+            >
+          </nav>
+        </div>
+      </article>
     </main>
 
     <footer class="attribution">

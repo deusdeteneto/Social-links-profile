@@ -1,93 +1,100 @@
-# Frontend Mentor - Social links profile
+# Frontend Mentor - Social Links Profile Solution
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+Este projeto é uma solução para o [desafio de perfil com links sociais no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-uxJTA6oJBM). Os desafios do Frontend Mentor ajudam a melhorar as habilidades de codificação ao construir projetos realistas.
 
-## Welcome! 👋
+Sinta-se à vontade para visitar o meu perfil no Frontend Mentor - [@deusdeteneto](https://www.frontendmentor.io/profile/deusdeteneto)
 
-Thanks for checking out this front-end coding challenge.
+## Índice de conteúdos
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+- [Visão geral](#visão-geral)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## Visão geral
 
-## The challenge
+### Screenshot
 
-Your challenge is to build out this social links profile and get it looking as close to the design as possible.
+![Screenshot do Projeto](https://raw.githubusercontent.com/deusdeteneto/Social-links-profile/main/design/desktop-design.jpeg)
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+### Links
 
-Your users should be able to: 
+<!-- TODO Colocar URL's aki -->
 
-- See hover and focus states for all interactive elements on the page
+- URL da Solução: [Adicionar URL da solução aqui](https://www.frontendmentor.io/solutions/social-links-profile-XXXXX)
+- URL do Site: [Adicionar URL do site aqui](https://deusdeteneto.github.io/Social-links-profile/)
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+## Meu processo
 
-## Where to find everything
+### Construído com
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="My Skills"></a>
+</p>
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)]()
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+### O que eu aprendi
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+Durante o desenvolvimento deste projeto, aprendi a utilizar o Bootstrap para criar layouts responsivos e estilizados de forma eficiente. Também melhorei minha habilidade em trabalhar com componentes customizados e técnicas de centralização usando Flexbox.
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+Aqui está um exemplo de código que utilizei:
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+```html
+<main class="d-flex justify-content-center align-items-center vh-100">
+  <section class="card align-items-center text-center rounded-3">
+    <img
+      src="assets/images/avatar-jessica.jpeg"
+      class="card-img-top mt-4"
+      alt="avatar"
+    />
+    <article class="card-body">
+      <h1 class="card-title fs-6 fw-semibold">Jessica Randall</h1>
+      <p class="card-text fw-semibold" id="address">London, United Kingdom</p>
+      <p class="card-text" id="skills">
+        "Front-end developer and avid reader."
+      </p>
+      <section class="d-flex flex-column gap-3 mx-3 mb-3">
+        <a href="#" class="btn btn-secondary fw-semibold">GitHub</a>
+        <a href="#" class="btn btn-secondary fw-semibold">Frontend Mentor</a>
+        <a href="#" class="btn btn-secondary fw-semibold">LinkedIn</a>
+        <a href="#" class="btn btn-secondary fw-semibold">Twitter</a>
+        <a href="#" class="btn btn-secondary fw-semibold">Instagram</a>
+      </section>
+    </article>
+  </section>
+</main>
+```
 
-## Building your project
+### Desenvolvimento contínuo
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Para projetos futuros, planejo explorar mais o uso de CSS Grid e continuar a aprimorar minha habilidade em criar layouts mais complexos com Flexbox e Bootstrap. Também gostaria de melhorar a acessibilidade e a semântica nos meus projetos.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+### Recursos úteis
 
-## Deploying your project
+- [Documentação do Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - A documentação do Bootstrap foi fundamental para entender como utilizar componentes e utilitários de forma eficaz.
+- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Este guia foi uma referência constante para aplicar técnicas de Flexbox no projeto.
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+## Autor
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/deusdeteneto">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/deusdeteneto">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</div>
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/deusdeteneto)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/deusdeteneto)
 
-## Create a custom `README.md`
+## Agradecimentos
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of our [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+Gostaria de agradecer à comunidade do Frontend Mentor por criar desafios interessantes que me ajudaram a melhorar minhas habilidades de front-end e por todo o suporte e feedback recebido.

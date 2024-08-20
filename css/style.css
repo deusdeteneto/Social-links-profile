@@ -14,13 +14,12 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  font-family: "Inter", sans-serif;
 }
 
 .card {
   background-color: var(--grey-800);
   color: var(--white);
-  font-family: "Inter", sans-serif;
-  font-weight: 400;
   border: none;
 }
 
